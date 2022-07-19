@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaveJay3002
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in AI, ML and blockchain
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Open Source
+- 💞️ I’m looking to collaborate on Projects on AI, ML and Blockchain
 - 📫 How to reach me davejay3002@gmail.com
 
 <!---
