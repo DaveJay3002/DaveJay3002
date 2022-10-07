@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaveJay3002
 - 👀 I’m interested in AI, ML and blockchain
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Ether.js, Web3.js, SOlidity. 
 - 💞️ I’m looking to collaborate on Projects on AI, ML and Blockchain
 - 📫 How to reach me davejay3002@gmail.com
 
