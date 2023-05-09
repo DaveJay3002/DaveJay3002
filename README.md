@@ -1,6 +1,8 @@
 
 
 # Hi there, I'm Jay Dave 👋
+![MyBanner](https://user-images.githubusercontent.com/100770697/237038451-ae403caf-91b2-4f5c-a107-7b1216359dcb.jpeg)
+
 
 ## Full Stack Developer | MERN Stack Expert | Interested in AI, ML, Web 3
 
